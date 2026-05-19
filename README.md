@@ -22,7 +22,9 @@ Building stuff, having fun, and enjoying the ride :)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tenebrism04/Tenebrism04/stats-output/stats.svg" height="150" />
-  <br>
+  
+  <img width = "20"/>
+
   <img src="https://raw.githubusercontent.com/Tenebrism04/Tenebrism04/languages-output/languages.svg" height="150" />
   <br>
   <img src="https://raw.githubusercontent.com/Tenebrism04/Tenebrism04/activity-graph-output/activity-graph.svg" height="300" />
