@@ -8,3 +8,5 @@
 </div>
 
 Building stuff, having fun, and enjoying the ride :)
+
+<img src="https://raw.githubusercontent.com/Tenebrism04/Tenebrism04/snake-output/snake.svg" alt="Snake animation" />
